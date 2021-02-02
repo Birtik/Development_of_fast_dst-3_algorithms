@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matrix_2.0", "Matrix_2.0\Matrix_2.0.csproj", "{F8B75389-1E63-4ECB-8EFF-E43BDF775463}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Apka20-04", "..\Apka20-04\Apka20-04\Apka20-04.csproj", "{93C7A282-AB5C-4A82-A31B-AF3941985014}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8B75389-1E63-4ECB-8EFF-E43BDF775463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B75389-1E63-4ECB-8EFF-E43BDF775463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8B75389-1E63-4ECB-8EFF-E43BDF775463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8B75389-1E63-4ECB-8EFF-E43BDF775463}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93C7A282-AB5C-4A82-A31B-AF3941985014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C7A282-AB5C-4A82-A31B-AF3941985014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C7A282-AB5C-4A82-A31B-AF3941985014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C7A282-AB5C-4A82-A31B-AF3941985014}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4D6EFDF-56B6-4B9A-944E-53B712EF0893}
+	EndGlobalSection
+EndGlobal
